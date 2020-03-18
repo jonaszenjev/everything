@@ -1,0 +1,11 @@
+{
+  "_fv": 5,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "K",
+    "keyBindingName": "Key1",
+    "onKeyPressed": {
+      "name": "CmenuCommandExecuted"
+    }
+  }
+}

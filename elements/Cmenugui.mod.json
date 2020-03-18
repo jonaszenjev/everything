@@ -1,0 +1,52 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 507,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Send as Anonymous",
+          "onClick": {
+            "name": "Payment1"
+          },
+          "width": 202,
+          "height": 40,
+          "name": "Send as Anonymous",
+          "x": 438,
+          "y": 89
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 240,
+          "height": 40,
+          "name": "Message1",
+          "x": 183,
+          "y": 87
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "A message costs 1 Iron.",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "A message costs 1 Iron.",
+          "x": 186,
+          "y": 132
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Create",
+          "onClick": {
+            "name": "Cocainecrafter"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Create",
+          "x": 369,
+          "y": 126
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Cocainer",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Cocainer",
+          "x": 384,
+          "y": 86
+        }
+      }
+    ],
+    "inventories": [
+      {
+        "slotAmount": 9,
+        "name": "Inv2",
+        "dropOnClose": true
+      }
+    ]
+  }
+}

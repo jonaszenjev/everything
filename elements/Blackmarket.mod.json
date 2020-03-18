@@ -1,0 +1,28 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Buy Cocainer",
+          "onClick": {
+            "name": "Bmcobuy"
+          },
+          "width": 240,
+          "height": 40,
+          "name": "Buy Cocainer",
+          "x": 264,
+          "y": 86
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

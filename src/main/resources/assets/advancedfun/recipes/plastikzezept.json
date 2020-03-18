@@ -1,0 +1,32 @@
+{
+  "group": "advancedfun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "advancedfun:plastikstuck"
+    },
+    "1": {
+      "item": "advancedfun:plastikstuck"
+    },
+    "2": {
+      "item": "advancedfun:plastikstuck"
+    },
+    "3": {
+      "item": "advancedfun:plastikstuck"
+    },
+    "4": {
+      "item": "advancedfun:plastikstuck"
+    },
+    "5": {
+      "item": "advancedfun:plastikstuck"
+    }
+  },
+  "result": {
+    "item": "advancedfun:plastikkarte",
+    "count": 1
+  }
+}

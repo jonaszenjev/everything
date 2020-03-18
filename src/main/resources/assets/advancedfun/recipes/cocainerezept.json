@@ -1,0 +1,16 @@
+{
+  "group": "advancedfun",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "advancedfun:plastikkarte"
+    }
+  ],
+  "result": {
+    "item": "advancedfun:cocaine",
+    "count": 1
+  }
+}
